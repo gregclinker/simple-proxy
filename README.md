@@ -33,7 +33,7 @@ Go to a browser and look at [http://localhost:8080/](http://localhost:8080/) to 
 
 ## Authors
 
-* **Greg Clinker** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Greg Clinker**
 
 ## License
 
