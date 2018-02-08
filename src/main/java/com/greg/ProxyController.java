@@ -1,6 +1,4 @@
-package com.santander;
-
-import org.springframework.web.bind.annotation.RestController;
+package com.greg;
 
 import java.util.Enumeration;
 
@@ -8,6 +6,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class ProxyController {
